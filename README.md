@@ -13,7 +13,7 @@
 
 ## 💜 Olá, meu nome é Diego!
 
-Sou acadêmico de Engenharia de Software pela UniCesumar e aluno no SENAI no curso técnico de Desenvolvimento de Sistemas.
+Sou acadêmico de Engenharia de Software pela <strong> UniCesumar </strong> e no curso técnico de Desenvolvimento de Sistemas pelo <strong> SENAI </strong>.
 Estou em um período de alteração de área de trabalho, mas pretendo evoluir nesta nova fase.
 
 🔭 Ainda não participei de nenhum projeto, mas, com o tempo vou começar a participar do que for aparecendo para agregar conhecimento.
